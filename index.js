@@ -1,5 +1,8 @@
 //Image array
-const images = ['https://iili.io/dEedPf.png', 'https://iili.io/dEeHns.png', 'https://iili.io/dEeJMG.png', 'https://iili.io/dEe3F4.png']
+const images = ['https://cdnmedia.endeavorsuite.com/images/catalogs/16119/products/detail/79f37c96-a83e-4f60-8474-9629a900d922.jpg',
+ 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRdFlkx8B6niGNN9-hUr8JIm6aHWLUW2oXnRQ&usqp=CAU',
+ 'https://s3-eu-west-1.amazonaws.com/crash.net/visordown.com/field/image/65212.jpg',
+ 'https://mcn-images.bauersecure.com/PageFiles/489837/BMW_RnineT_01.jpg']
 
 let currentImgIndex = 0
 

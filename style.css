@@ -1,6 +1,6 @@
 /* ======= GENERAL ======== */
 body {
-    background: #f9f9f9;
+    background: grey;
   }
   .container {
     display: flex;
@@ -15,8 +15,8 @@ body {
     font-weight: 800;
     font-size: 2.5em;
     margin-top: -1%;
-    color: #4caaa8;
-    text-shadow: 1px 1px #f2cd99;
+    color: black;
+    text-shadow: 1px 1px black;
     letter-spacing: 2px;
   }
   /* ======= CAROUSEL SECTION ======== */
@@ -27,11 +27,10 @@ body {
   }
   .carousel-images {
     width: 80%;
-    background: #fa8d8e;
+    background: black;
     padding: 10px;
     border-radius: 10px;
     box-sizing: border-box;
-    box-shadow: 2px 2px #f2cd99;
   }
   .carousel-images img {
     width: 100%;
@@ -40,16 +39,14 @@ body {
   
   .carousel-button {
     align-self: center;
-    background: #f2cd99;
+    background: black;
     color: #888;
     padding: 10px;
     border-radius: 50%;
     text-align: center;
-    box-shadow: 1px 1px #fa8d8e;
   }
   .carousel-button:hover {
     cursor: pointer;
-    background: #fa8d8e;
-    box-shadow: 1px 1px #f2cd99;
+    background: red;
     color: white;
   }
